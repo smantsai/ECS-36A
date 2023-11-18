@@ -1,0 +1,2 @@
+  This program creates a game of Connect - N, a version of Connect-4, where the users can customize the board size and win conditions.
+  To start, use ./connectn.out (number of rows) (number of columns) (number of pieces to win)
